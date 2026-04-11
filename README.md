@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Mehmet+Do%C4%9Fruer;Yaz%C4%B1l%C4%B1m+M%C3%BChendisi+Aday%C4%B1;AI+%26+ML+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Mehmet+Do%C4%9Fruer;Yaz%C4%B1l%C4%B1m+M%C3%BChendisi+Aday%C4%B1;AI+%26+ML+Enthusiast" alt="Typing SVG" />
 </p>
 
 ## Selamlar! 👋
@@ -9,7 +9,7 @@ Ben Mehmet, **Karabük Üniversitesi** Bilgisayar Mühendisliği öğrencisiyim.
 
 ## 📊 İstatistikler
 <p align="left">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MehmetDr&show_icons=true&theme=nord&hide_border=true" alt="Mehmet Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MehmetDr&show_icons=true&theme=nord&hide_border=true" alt="Mehmet Stats" />
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MehmetDr&theme=nord&hide_border=true" alt="Mehmet Streak" />
 </p>
