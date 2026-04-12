@@ -9,7 +9,7 @@ Ben Mehmet, **Karabük Üniversitesi** Bilgisayar Mühendisliği öğrencisiyim.
 
 ## 📊 İstatistikler
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MehmetDr&show_icons=true&theme=nord&hide_border=true" alt="Mehmet Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=MehmetDr&show_icons=true&theme=nord&hide_border=true" alt="Mehmet Stats" />
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MehmetDr&theme=nord&hide_border=true" alt="Mehmet Streak" />
 </p>
