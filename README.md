@@ -18,7 +18,7 @@ Ben Mehmet, **Karabük Üniversitesi** Bilgisayar Mühendisliği öğrencisiyim.
 | Proje / Organizasyon | Rol | Açıklama | Durum |
 | :--- | :--- | :--- | :--- |
 | **Hicaz Hyperloop** | Ekip Üyesi | TEKNOFEST için CAN bus haberleşme ağları geliştirme. | 🚀 Devam Ediyor |
-| **UNİKA SATİVUS** | Sponsorluk Başkanı | Uzay ve Havacılık kulübü için kaynak yönetimi ve iş birlikleri. | 🤝 Aktif |
+| **UNİKA SATİVUS** | Başkan Yardımcısı | Uzay ve Havacılık kulübü için kaynak yönetimi ve iş birlikleri. | 🤝 Aktif |
 | **Personal AI/ML** | Araştırmacı | Python ve LLM entegrasyonu üzerine bireysel çalışmalar. | 🤖 Öğrenim |
 
 ## 👔 Deneyim & Gönüllülük
