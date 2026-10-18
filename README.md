@@ -26,7 +26,7 @@ Ben Mehmet, **Karabük Üniversitesi** Bilgisayar Mühendisliği öğrencisiyim.
 ## 👔 Deneyim & Gönüllülük
 | Pozisyon | Organizasyon | Alan | Dönem |
 | :--- | :--- | :--- | :--- |
-| **Sponsorluk Birim Başkanı** | **UNİKA SATİVUS** | Teknoloji & Havacılık Kulübü | 2025 - Devam |
+| **Başkan Yardımcısı** | **UNİKA SATİVUS** | Teknoloji & Havacılık Kulübü | 2025 - Devam |
 | **Proje Geliştirici** | **Hicaz Hyperloop** | Haberleşme & Yazılım | 2025 - Devam |
 
 ## 🎓 Eğitim
